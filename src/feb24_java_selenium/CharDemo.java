@@ -7,6 +7,11 @@ public class CharDemo {
 //		ascii code - 1 byte
 //		unicode code - 2 byte
 		
+//		mynameisshivam
+// class mynameisshivam
+// class myNameIsShivam - camel casing
+// class MyNameIsShivam - hungarian
+		
 		char c1 = ' ';
 		System.out.println(c1);
 
